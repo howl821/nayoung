@@ -1,0 +1,99 @@
+.container{
+    width: 1200px !important;
+    max-width: none !important;
+    height: 100px !important;
+    overflow: hidden;
+}
+
+.navbar-fixed-top{
+    width: 1200px !important;
+}
+
+ .container .navbar-collapse{
+    height: 100px !important;
+    line-height: 100px !important;
+}
+
+.navbar-brand{
+    /* width: 100px !important; */
+    position: relative;
+    top: 32px;
+    left: 18px;
+}
+/*
+.container .navbar-brand{
+    width: 100px;
+} */
+
+.navbar-nav {
+    float: left;
+    margin: 0;
+    position: relative;
+    top: 5px;
+    left: 44px;
+}
+
+.navbar-form .form-group {
+    display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+    position: relative;
+    top: -5px;
+    left: 165px;
+}
+
+.navbar-form .form-control {
+    display: inline-block;
+    width: 300px !important;
+    vertical-align: middle;
+    left: -130px;
+    position: relative;
+}
+
+.btn-default {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+    position: relative;
+    top: -3px;
+}
+
+.submit {
+    position: relative;
+    left: 31px;
+}
+
+.navbar-nav.navbar-right {
+    float: right;
+    position: relative;
+    left: 14px;
+    top: 5px;
+}
+
+.btn-group > .btn:first-child {
+    margin-left: 0;
+    height: 100px;
+    width: 140px;
+}
+
+.navbar-collapse {
+    margin-right: 0;
+    margin-left: 0;
+    position: relative;
+    top: -3px;
+}
+
+.nav-stacked{
+    width: 150px;
+}
+
+.sidemenu{
+    width: 150px;
+}
+
+.maincontent{
+    clear: both;
+    position: relative;
+    top: 100px;
+    left: 200px
+}
